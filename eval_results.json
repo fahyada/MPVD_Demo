@@ -1,0 +1,56 @@
+{
+ "BASELINE raw text + fixed chunks (dense)": {
+  "hit@1": 0.559,
+  "hit@3": 0.661,
+  "hit@5": 0.678,
+  "MRR@10": 0.625
+ },
+ "BASELINE (BM25)": {
+  "hit@1": 0.407,
+  "hit@3": 0.525,
+  "hit@5": 0.61,
+  "MRR@10": 0.488
+ },
+ "NEW markdown + section chunks (dense)": {
+  "hit@1": 0.78,
+  "hit@3": 0.915,
+  "hit@5": 0.966,
+  "MRR@10": 0.862
+ },
+ "NEW (BM25, Thai tokenized)": {
+  "hit@1": 0.729,
+  "hit@3": 0.898,
+  "hit@5": 0.949,
+  "MRR@10": 0.821
+ },
+ "NEW hybrid dense+BM25 (RRF)": {
+  "hit@1": 0.814,
+  "hit@3": 0.932,
+  "hit@5": 0.983,
+  "MRR@10": 0.886
+ },
+ "  baseline dense — answers in screenshot (41q)": {
+  "hit@1": 0.659,
+  "hit@3": 0.78,
+  "hit@5": 0.805,
+  "MRR@10": 0.728
+ },
+ "  NEW hybrid     — answers in screenshot (41q)": {
+  "hit@1": 0.805,
+  "hit@3": 0.951,
+  "hit@5": 0.976,
+  "MRR@10": 0.884
+ },
+ "  baseline dense — answers in scanned (17q)": {
+  "hit@1": 0.294,
+  "hit@3": 0.353,
+  "hit@5": 0.353,
+  "MRR@10": 0.354
+ },
+ "  NEW hybrid     — answers in scanned (17q)": {
+  "hit@1": 0.824,
+  "hit@3": 0.882,
+  "hit@5": 1.0,
+  "MRR@10": 0.882
+ }
+}

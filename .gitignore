@@ -1,0 +1,17 @@
+# macOS / Office junk
+.DS_Store
+~$*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# secrets — never commit API keys or LINE tokens
+.env
+*.key
+service-account*.json
+
+# local working files
+work/
+fe_cache/

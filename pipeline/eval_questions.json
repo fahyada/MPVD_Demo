@@ -1,0 +1,516 @@
+[
+ {
+  "q": "เปลี่ยนนโยบายการลงทุนได้ปีละกี่รอบ และมีผลวันไหน",
+  "gold": [
+   "mpvd_hr_switching:2",
+   "mpvd_hr_switching:3"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "ต้องทำรายการ switching ภายในกี่โมงก่อนวันที่มีผล",
+  "gold": [
+   "mpvd_hr_switching:2",
+   "mpvd_member_switching:2",
+   "mpvd_fc_manual:21",
+   "mpvd_member_switching:9"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "ถ้าบริษัทเปิดทางเลือกลงทุนต่างประเทศ ต้องสับเปลี่ยนล่วงหน้ากี่วัน",
+  "gold": [
+   "mpvd_hr_switching:2",
+   "mpvd_member_switching:2",
+   "mpvd_fc_manual:21",
+   "mpvd_member_switching:9"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "นโยบายใหม่จะแสดงในรายงานของสมาชิกภายในกี่วัน",
+  "gold": [
+   "mpvd_hr_switching:2",
+   "mpvd_member_switching:2",
+   "mpvd_member_switching:9"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "HR อยากเพิ่มทางเลือกการลงทุนให้พนักงาน ต้องแจ้งล่วงหน้ากี่วัน",
+  "gold": [
+   "mpvd_hr_switching:2",
+   "mpvd_fc_manual:21"
+  ],
+  "where": "screenshot+scanned"
+ },
+ {
+  "q": "ถ้าพนักงานลาออกก่อนวันที่ switching มีผล รายการที่เปลี่ยนไว้จะเป็นอย่างไร",
+  "gold": [
+   "mpvd_hr_switching:2",
+   "mpvd_hr_switching:3",
+   "mpvd_member_switching:2",
+   "mpvd_member_switching:9"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "MRT-SF คือนโยบายอะไร",
+  "gold": [
+   "mpvd_hr_switching:4",
+   "mpvd_hr_switching:5"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "นโยบาย MRT-MG ลงทุนทองได้สูงสุดเท่าไร",
+  "gold": [
+   "mpvd_hr_switching:5"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "HR จะเปลี่ยนนโยบายการลงทุนแทนพนักงานผ่านระบบได้อย่างไร",
+  "gold": [
+   "mpvd_hr_switching:3",
+   "mpvd_hr_switching:4",
+   "mpvd_hr_switching:5"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "ดูได้ไหมว่าใครเป็นคนเปลี่ยนนโยบาย สมาชิกหรือ HR",
+  "gold": [
+   "mpvd_hr_switching:6",
+   "mpvd_member_switching:7",
+   "mpvd_member_switching:14"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "ดาวน์โหลดรายงานการเปลี่ยนนโยบายเป็นไฟล์ Excel ได้ที่เมนูไหน",
+  "gold": [
+   "mpvd_hr_switching:7"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "สมาชิกจะยกเลิกการเปลี่ยนนโยบายที่ทำไว้ได้อย่างไร",
+  "gold": [
+   "mpvd_member_switching:5",
+   "mpvd_member_switching:6",
+   "mpvd_member_switching:12",
+   "mpvd_member_switching:13"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "Rebalancing กับ Switching ต่างกันอย่างไร",
+  "gold": [
+   "mpvd_member_switching:2",
+   "mpvd_member_switching:9",
+   "mpvd_hr_switching:3"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "เลือกทางเลือก Freestyle Fix Sub E Max 10 ลงทุนหุ้นได้กี่เปอร์เซ็นต์",
+  "gold": [
+   "mpvd_member_switching:3",
+   "mpvd_member_switching:10"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "ตอนกรอกสัดส่วนเงินลงทุนเอง ผลรวมต้องเป็นเท่าไร",
+  "gold": [
+   "mpvd_member_switching:4",
+   "mpvd_member_switching:11"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "How do I cancel switching on the website?",
+  "gold": [
+   "mpvd_member_switching:12",
+   "mpvd_member_switching:13"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "ลงทะเบียน LINE Connect ต้องใช้ข้อมูลอะไรบ้าง",
+  "gold": [
+   "mpvd_line_connect:8",
+   "mpvd_line_connect:9",
+   "mpvd_line_connect:6"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "รหัสบริษัทตอนลงทะเบียน LINE หาได้จากไหน",
+  "gold": [
+   "mpvd_line_connect:8"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "ไม่ได้รับ OTP ตอนลงทะเบียนไลน์ ต้องรอกี่วินาทีถึงขอใหม่ได้",
+  "gold": [
+   "mpvd_line_connect:9"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "เข้าใช้งาน LINE Connect ต้องใส่รหัสอะไร",
+  "gold": [
+   "mpvd_line_connect:12"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "รหัสผ่านเปิดไฟล์ I-Statement คืออะไร",
+  "gold": [
+   "mpvd_line_connect:15",
+   "mpvd_line_connect:14"
+  ],
+  "where": "text"
+ },
+ {
+  "q": "Fund Fact Sheet จะขึ้นในระบบให้ดาวน์โหลดได้เมื่อไหร่",
+  "gold": [
+   "mpvd_line_connect:16"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "ทำแบบประเมินความเสี่ยงผ่านไลน์ยังไง",
+  "gold": [
+   "mpvd_line_connect:18",
+   "mpvd_line_connect:19"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "ใน LINE มีเครื่องมือช่วยวางแผนภาษีไหม ใช้อย่างไร",
+  "gold": [
+   "mpvd_line_connect:21",
+   "mpvd_line_connect:22",
+   "mpvd_line_connect:3"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "นายจ้างต้องนำส่งเงินสะสมเงินสมทบเข้ากองทุนภายในกี่วัน",
+  "gold": [
+   "mpvd_fc_manual:4",
+   "mpvd_fc_manual:6"
+  ],
+  "where": "scanned"
+ },
+ {
+  "q": "เลขที่บัญชีกองทุนสำหรับโอนเงินสะสม-สมทบคืออะไร",
+  "gold": [
+   "mpvd_fc_manual:4"
+  ],
+  "where": "scanned"
+ },
+ {
+  "q": "ส่งเงินเข้ากองทุนช้า ค่าปรับคิดอย่างไร",
+  "gold": [
+   "mpvd_fc_manual:8",
+   "mpvd_fc_manual:9"
+  ],
+  "where": "scanned"
+ },
+ {
+  "q": "ถ้าวันครบกำหนดส่งเงินตรงกับวันหยุดธนาคาร ต้องส่งวันไหน",
+  "gold": [
+   "mpvd_fc_manual:4",
+   "mpvd_fc_manual:7",
+   "mpvd_fc_manual:9"
+  ],
+  "where": "scanned"
+ },
+ {
+  "q": "งวดเดือนมิถุนายนและธันวาคมต้องส่งเงินและ soft file ภายในกี่โมง",
+  "gold": [
+   "mpvd_fc_manual:5"
+  ],
+  "where": "scanned"
+ },
+ {
+  "q": "คณะกรรมการกองทุนได้รับรายงานรายเดือนอะไรบ้าง",
+  "gold": [
+   "mpvd_fc_manual:10"
+  ],
+  "where": "scanned"
+ },
+ {
+  "q": "สมาชิกเสียชีวิต ต้องแนบเอกสารอะไร",
+  "gold": [
+   "mpvd_fc_manual:11"
+  ],
+  "where": "scanned"
+ },
+ {
+  "q": "ลาออกแล้วจะได้เช็คเงินกองทุนภายในกี่วัน",
+  "gold": [
+   "mpvd_fc_manual:11"
+  ],
+  "where": "scanned"
+ },
+ {
+  "q": "ค่าธรรมเนียมคงเงินไว้ในกองทุนปีละเท่าไร",
+  "gold": [
+   "mpvd_fc_manual:12",
+   "mpvd_fc_manual:13"
+  ],
+  "where": "scanned"
+ },
+ {
+  "q": "รับเงินเป็นงวดต้องมีคุณสมบัติอะไร",
+  "gold": [
+   "mpvd_fc_manual:12"
+  ],
+  "where": "scanned"
+ },
+ {
+  "q": "เปลี่ยนกรรมการกองทุนต้องแจ้งล่วงหน้ากี่วัน",
+  "gold": [
+   "mpvd_fc_manual:14"
+  ],
+  "where": "scanned"
+ },
+ {
+  "q": "แก้ไขข้อบังคับกองทุนต้องจดทะเบียนภายในกี่วัน",
+  "gold": [
+   "mpvd_fc_manual:14"
+  ],
+  "where": "scanned"
+ },
+ {
+  "q": "โอนย้ายพนักงานไปบริษัทในเครือ ใช้แบบฟอร์มอะไร",
+  "gold": [
+   "mpvd_fc_manual:16",
+   "mpvd_fc_manual:17"
+  ],
+  "where": "scanned"
+ },
+ {
+  "q": "โอน 2 ขา vesting ไม่ต่อเนื่อง หมายถึงอะไร",
+  "gold": [
+   "mpvd_fc_manual:16",
+   "mpvd_fc_manual:17",
+   "mpvd_fc_manual:18"
+  ],
+  "where": "scanned"
+ },
+ {
+  "q": "ต้องทบทวนแบบประเมินความเสี่ยงทุกกี่ปี",
+  "gold": [
+   "mpvd_fc_manual:19"
+  ],
+  "where": "scanned"
+ },
+ {
+  "q": "กรรมการกองทุนส่งข้อมูลแบบประเมินความเสี่ยงของสมาชิกได้กี่วิธี",
+  "gold": [
+   "mpvd_fc_manual:20",
+   "mpvd_fc_manual:19"
+  ],
+  "where": "scanned"
+ },
+ {
+  "q": "โอนเงิน PVD ไป RMF ต้องใช้เอกสารอะไรบ้าง",
+  "gold": [
+   "mpvd_fc_manual:13",
+   "mpvd_fc_manual:11"
+  ],
+  "where": "scanned"
+ },
+ {
+  "q": "ขอรหัสอ้างอิง Reference ID สำหรับลงทะเบียน e-Provident Fund ได้จากช่องทางไหนบ้าง",
+  "gold": [
+   "mpvd_epf_member_th:4",
+   "mpvd_epf_member_th:5",
+   "mpvd_epf_member_th:6",
+   "mpvd_epf_member_th:7",
+   "mpvd_epf_member_th:8",
+   "mpvd_epf_hrfc_register_th:5"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "ดูรหัสลงทะเบียน e-Provident ใน LINE ได้อย่างไร",
+  "gold": [
+   "mpvd_epf_member_th:7",
+   "mpvd_line_connect:12"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "ลงทะเบียน e-Provident Fund ต้องกรอกข้อมูลอะไรบ้าง",
+  "gold": [
+   "mpvd_epf_member_th:10",
+   "mpvd_epf_member_th:14",
+   "mpvd_epf_member_th:15",
+   "mpvd_epf_hrfc_register_th:6",
+   "mpvd_epf_hrfc_register_th:2"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "OTP ที่ส่งไปอีเมลตอนลงทะเบียนหมดอายุภายในกี่นาที",
+  "gold": [
+   "mpvd_epf_member_th:16",
+   "mpvd_epf_hrfc_register_th:7"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "ตั้งชื่อผู้ใช้และรหัสผ่านต้องมีกี่ตัวอักษร",
+  "gold": [
+   "mpvd_epf_member_th:17",
+   "mpvd_epf_hrfc_register_th:8"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "ลืมรหัสผ่าน e-Provident Fund ต้องทำอย่างไร",
+  "gold": [
+   "mpvd_epf_member_th:53",
+   "mpvd_epf_member_th:54",
+   "mpvd_epf_member_th:55"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "ลิงก์รีเซ็ตรหัสผ่านที่ส่งทางอีเมลใช้ได้นานเท่าไร",
+  "gold": [
+   "mpvd_epf_member_th:54",
+   "mpvd_epf_member_th:55"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "อยากเปลี่ยนอีเมลหรือเบอร์โทรในระบบ e-Provident",
+  "gold": [
+   "mpvd_epf_member_th:48"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "Smart Lifepath คืออะไร เลือกยังไง",
+  "gold": [
+   "mpvd_epf_member_th:39",
+   "mpvd_epf_member_th:40",
+   "mpvd_epf_member_th:41",
+   "mpvd_epf_member_th:42"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "ดูอัตราผลตอบแทนกองทุนในเว็บได้ที่เมนูไหน",
+  "gold": [
+   "mpvd_epf_member_th:25",
+   "mpvd_epf_member_th:26",
+   "mpvd_epf_member_th:27"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "แอป TISCO My Funds เข้าใช้งานครั้งแรกต้องทำอย่างไร ต้องตั้ง PIN ไหม",
+  "gold": [
+   "mpvd_myfunds_th:2",
+   "mpvd_myfunds_th:3",
+   "mpvd_myfunds_en:3"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "ดาวน์โหลด I-Statement ในแอป My Funds ได้ไหม",
+  "gold": [
+   "mpvd_myfunds_th:5",
+   "mpvd_myfunds_en:6"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "How does a foreigner register for the My Funds app?",
+  "gold": [
+   "mpvd_myfunds_en:3",
+   "mpvd_myfunds_en:4"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "HR จะเพิ่มพนักงานใหม่เข้ากองทุนในระบบทีละหลายคนได้อย่างไร",
+  "gold": [
+   "mpvd_epf_hr_manage_th:19",
+   "mpvd_epf_hr_manage_th:20",
+   "mpvd_epf_hr_manage_th:21",
+   "mpvd_epf_hr_manage_th:22",
+   "mpvd_epf_hr_manage_th:23",
+   "mpvd_epf_hr_manage_en:74",
+   "mpvd_epf_hr_manage_en:75",
+   "mpvd_epf_hr_manage_en:76",
+   "mpvd_epf_hr_manage_en:77",
+   "mpvd_epf_hr_manage_en:78"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "HR แจ้งพนักงานลาออกผ่านระบบ e-Provident ต้องกรอกอะไร",
+  "gold": [
+   "mpvd_epf_hr_manage_th:34",
+   "mpvd_epf_hr_manage_th:35",
+   "mpvd_epf_hr_manage_th:36",
+   "mpvd_epf_hr_manage_th:37",
+   "mpvd_epf_hr_manage_th:38",
+   "mpvd_epf_hr_manage_en:89",
+   "mpvd_epf_hr_manage_en:90",
+   "mpvd_epf_hr_manage_en:91",
+   "mpvd_epf_hr_manage_en:92",
+   "mpvd_epf_hr_manage_en:93"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "ส่งข้อมูลสมาชิกแล้ว ดูสถานะการนำส่งได้ที่ไหน",
+  "gold": [
+   "mpvd_epf_hr_manage_th:31",
+   "mpvd_epf_hr_manage_th:32",
+   "mpvd_epf_hr_manage_en:86",
+   "mpvd_epf_hr_manage_en:87"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "โอนย้ายพนักงานไปบริษัทในเครือผ่านระบบทำอย่างไร",
+  "gold": [
+   "mpvd_epf_hr_manage_th:46",
+   "mpvd_epf_hr_manage_th:47",
+   "mpvd_epf_hr_manage_th:48",
+   "mpvd_epf_hr_manage_th:49",
+   "mpvd_epf_hr_manage_th:50",
+   "mpvd_epf_hr_manage_th:51",
+   "mpvd_epf_hr_manage_th:52",
+   "mpvd_epf_hr_manage_en:101",
+   "mpvd_epf_hr_manage_en:102",
+   "mpvd_epf_hr_manage_en:103",
+   "mpvd_epf_hr_manage_en:104",
+   "mpvd_epf_hr_manage_en:105",
+   "mpvd_epf_hr_manage_en:106",
+   "mpvd_epf_hr_manage_en:107"
+  ],
+  "where": "screenshot"
+ },
+ {
+  "q": "รายงานไหนบ้างที่ต้องส่งเอกสารตัวจริงให้ทิสโก้",
+  "gold": [
+   "mpvd_epf_hr_manage_th:54",
+   "mpvd_epf_hr_manage_en:109"
+  ],
+  "where": "screenshot"
+ }
+]
